@@ -1,1 +1,1 @@
-# LW-Quiz
+# EAGLE Star Citizen organization website.
