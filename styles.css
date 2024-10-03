@@ -36,8 +36,8 @@ body {
   #Logo {
     scale: 50%;
     position: fixed;
-    top: 20px;
-    left: 20px;
+    top: 5px;
+    left: 5px;
     filter: brightness(0) invert(1);
   }
 
