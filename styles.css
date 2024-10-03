@@ -34,8 +34,9 @@ body {
   }
 
   #Logo {
+    width: 50%;
     position: fixed;
-    left: 10px;
+    left: 20px;
     filter: brightness(0) invert(1);
   }
 
