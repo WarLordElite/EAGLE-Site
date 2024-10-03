@@ -46,7 +46,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(BG_Alt.jpg);
+    background: url(BG_Alt.png);
     background-size: cover;
     background-position: center;
 }
