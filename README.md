@@ -1,2 +1,2 @@
-# EAGLE Star Citizen organization website.
+# EAGLE Star Citizen organization website. WIP
 https://eagle.1up.ninja
